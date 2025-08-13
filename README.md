@@ -7,7 +7,7 @@
 
 ## ​ About Me  
 An IoT & Robotics engineer with a driving passion for **smart systems**, **automation**, and **web development**.  
-Currently exploring backend C/C++ systems and Explainable AI, with academic honors including Dean’s List at Gazipur Digital University.
+Currently exploring backend C/C++ systems and Explainable AI, with academic honors including Dean’s List at University of Frontier Technology, Bangladesh.
 
 ---
 
@@ -23,9 +23,9 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 
 ### ​ Movie Saviour (Web App)  
 **All your movies, dramas, animes in one place** — a sleek UI to browse and discover titles.  
-
-::contentReference[oaicite:1]{index=1}
   
+🔗 [View Repository →](https://github.com/TM-Mehrab-Hasan/MovieSaviour_Website)  
+
 🔗 [View it live](https://moviesaviour.netlify.app/)  
 
 ---
@@ -33,37 +33,30 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 ###  Personal Portfolio Website  
 **Your professional digital hub** — showcasing work, education, projects, publications, and contact info.  
 
-::contentReference[oaicite:2]{index=2}
+🔗 [View Repository →](https://github.com/TM-Mehrab-Hasan/TM-Mehrab-Hasan.github.io)  
   
 🔗 [Visit it here](https://tm-mehrab-hasan.github.io/)  
 
 ---
 
 ### ​ Intelligent Investment Advisor  
-**Stacked ML + XAI for personalized sector forecasts** — (Elsevier paper under review)  
-*(Insert your real project screenshot or demo here)*  
-🔗 [View Repository →](https://github.com/YourProjectLink)  
+**Stacked ML + XAI for personalized sector forecasts** — (Elsevier paper under review)   
+
+🔗 [View Repository →](https://github.com/TM-Mehrab-Hasan/Investment_Sector_Recommendation)  
 
 ---
 
 ###  ESP32 GPS Tracker  
-**Real-time GPS tracker with web UI + email alerts**  
-*(Insert your real project screenshot here)*  
-🔗 [View Repository →](https://github.com/YourProjectLink)  
+**Real-time GPS tracker with web UI + email alerts**   
+
+🔗 [View Repository →](https://github.com/TM-Mehrab-Hasan/Real-Time-Location-Tracker-Using-U-Blox-Neo-6m-GPS-Sensor-with-ESP8266)  
 
 ---
 
 ###  Early Fire Detection Robot  
 **Wireless robot that senses and alerts early-stage fire hazards**  
-*(Insert your real project screenshot here)*  
-🔗 [View Repository →](https://github.com/YourProjectLink)  
-
----
-
-###  Smart IoT Drainage System  
-**ML-powered garbage detection & auto water-flow control**  
-*(Insert your real project screenshot here)*  
-🔗 [View Repository →](https://github.com/YourProjectLink)  
+  
+🔗 [View Repository →](https://github.com/TM-Mehrab-Hasan/Early-Stage-Fire-Detection-Robot)  
 
 ---
 
