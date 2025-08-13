@@ -1,52 +1,88 @@
 # Hi there, I'm T. M. Mehrab Hasan 👋
 
-💻 **IoT Engineer | Robotics Engineer | Web Developer | Python Developer**  
-🚀 I build smart systems that connect the digital and physical worlds.  
+💻 **IoT Engineer | Robotics Enthusiast | Web & Python Developer**  
+🚀 Bridging hardware, software, and AI through intelligent, connected systems.
 
 ---
 
-## 🔹 About Me  
-With a strong passion for **IoT & Robotics Engineering** and **Full-Stack Development**, I specialize in building intelligent, connected systems and seamless web platforms. I focus on integrating **hardware**, **software**, and **AI** to create impactful solutions.  
-
-🎓 **B.Sc. in IoT & Robotics Engineering** — Gazipur Digital University (CGPA: 3.71/4.00)  
-🌱 Currently exploring advanced **C/C++ backend development** and **Explainable AI**  
-🏆 Recognized with **Dean’s Certificate & Dean’s List** honors (2025)  
+## ​ About Me  
+An IoT & Robotics engineer with a driving passion for **smart systems**, **automation**, and **web development**.  
+Currently exploring backend C/C++ systems and Explainable AI, with academic honors including Dean’s List at Gazipur Digital University.
 
 ---
 
-## 🧰 Tech Stack
-**Languages:** C, C++, Python (Django), HTML, CSS, JavaScript, PHP  
-**Frameworks & Tools:** React JS, Arduino IDE, Flask, Tkinter, Jupyter Notebook, NetBeans, Android Studio  
+## ​ Tech Stack  
+**Languages:** C, C++, Python (Django), JavaScript (React), PHP, HTML/CSS  
+**Frameworks & Tools:** Arduino IDE, Flask, Tkinter, Jupyter, Android Studio  
 **Databases:** MySQL, SQLite, MongoDB, Firebase  
-**OS:** Windows, Linux  
-**Hardware:** ESP32, Raspberry Pi, GPS modules, IoT sensors  
+**Hardware/OS:** ESP32, Raspberry Pi, IoT sensors; Windows & Linux  
 
 ---
 
-## 📌 Featured Projects
-- 🔹 **[Intelligent Investment Advisor](https://github.com/YourProjectLink)** — Stacked ML + XAI for personalized sector recommendations *(Elsevier paper under review)*  
-- 🔹 **[ESP32 GPS Tracker](https://github.com/YourProjectLink)** — Real-time GPS tracking with web & email notifications  
-- 🔹 **[Early Stage Fire Detection Robot](https://github.com/YourProjectLink)** — Autonomous robot with wireless control and fire alerts  
-- 🔹 **[Smart IoT Drainage Solution](https://github.com/YourProjectLink)** — IoT + ML system for garbage detection and automated water flow control  
+##  Featured Projects
+
+### ​ Movie Saviour (Web App)  
+**All your movies, dramas, animes in one place** — a sleek UI to browse and discover titles.  
+
+::contentReference[oaicite:1]{index=1}
+  
+🔗 [View it live](https://moviesaviour.netlify.app/)  
 
 ---
 
-## 📊 GitHub Stats
+###  Personal Portfolio Website  
+**Your professional digital hub** — showcasing work, education, projects, publications, and contact info.  
+
+::contentReference[oaicite:2]{index=2}
+  
+🔗 [Visit it here](https://tm-mehrab-hasan.github.io/)  
+
+---
+
+### ​ Intelligent Investment Advisor  
+**Stacked ML + XAI for personalized sector forecasts** — (Elsevier paper under review)  
+*(Insert your real project screenshot or demo here)*  
+🔗 [View Repository →](https://github.com/YourProjectLink)  
+
+---
+
+###  ESP32 GPS Tracker  
+**Real-time GPS tracker with web UI + email alerts**  
+*(Insert your real project screenshot here)*  
+🔗 [View Repository →](https://github.com/YourProjectLink)  
+
+---
+
+###  Early Fire Detection Robot  
+**Wireless robot that senses and alerts early-stage fire hazards**  
+*(Insert your real project screenshot here)*  
+🔗 [View Repository →](https://github.com/YourProjectLink)  
+
+---
+
+###  Smart IoT Drainage System  
+**ML-powered garbage detection & auto water-flow control**  
+*(Insert your real project screenshot here)*  
+🔗 [View Repository →](https://github.com/YourProjectLink)  
+
+---
+
+##  GitHub Stats & Languages  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TM-Mehrab-Hasan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TM-Mehrab-Hasan&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TM-Mehrab-Hasan&layout=compact&theme=radical)  
 
 ---
 
-## 📜 Achievements
-- 🏆 Dean’s Certificate & Dean’s List — Gazipur Digital University (2025)  
-- 🔐 Advanced Cybersecurity Program — TeamMatrix Elite Hackers (2024)  
-- 🌐 AWS Academy — Introduction to Cloud (2023)  
-- 🥉 3rd Runner-Up — Upazila Science Fair, Gazipur (2023)  
+##  Achievements & Certifications  
+- 🏅 Dean’s Certificate & Dean’s List — Gazipur Digital University (2025)  
+- 🛡 TeamMatrix Elite Hackers: Advanced Cybersecurity Program (2024)  
+-  AWS Academy: Introduction to Cloud (2023)  
+-  3rd Runner-Up, Upazila Science Fair, Gazipur (2023)  
 
 ---
 
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehrab%20Ratul-blue?logo=linkedin)](https://www.linkedin.com/in/tm-mehrab-hasan)  
+##  Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehrab%20Hasan-blue?logo=linkedin)](https://www.linkedin.com/in/tm-mehrab-hasan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://tm-mehrab-hasan.github.io/)  
 [![Email](https://img.shields.io/badge/Email-mehrabratul210524%40gmail.com-red)](mailto:mehrabratul210524@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-TM--Mehrab--Hasan-black?logo=github)](https://github.com/TM-Mehrab-Hasan)  
