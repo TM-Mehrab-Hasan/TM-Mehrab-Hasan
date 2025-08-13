@@ -1,7 +1,7 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+T.+M.+Mehrab+Hasan+👋;💻+IoT+Engineer+%7C+Robotics+Enthusiast;🐍C/CPP+Python+%26+Web+Developer;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+T.+M.+Mehrab+Hasan+👋;💻+IoT+Engineer+%7C+Robotics+Enthusiast;🐍C/CPP+%5C+Python+%26+Web+Developer;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
