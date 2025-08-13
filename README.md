@@ -1,7 +1,13 @@
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+T.+M.+Mehrab+Hasan+👋;💻+IoT+%26+Robotics+Engineer+%7C+Embedded+Systems;🐍C/CPP+%7C+Django+Python+%7C+Web+Developer;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+T.+M.+Mehrab+Hasan+👋;💻+IoT+Engineer+%7C+Robotics+Enthusiast;🐍+Python+%26+Web+Developer;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
+</div>
+
+![Dark Section](https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Hi+there%2C+I'm+T.+M.+Mehrab+Hasan+👋;💻+IoT+Engineer+%7C+Robotics+Enthusiast;🐍+Python+%26+Web+Developer;🚀+Building+Smart+Connected+Systems;🔥+Bridging+Hardware%2C+Software+%26+AI" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,6 +35,8 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 </div>
 
 ## 🛠️ Tech Stack  
+
+![Tech Background](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30,26&height=3)
 
 <div align="center">
 
@@ -60,6 +68,8 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+![Tech Background](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=26,30,2,2,0&height=3)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=2"/>
@@ -158,7 +168,7 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 
 | 🏅 **Achievement** | 📅 **Year** | 🏢 **Institution** |
 |:------------------:|:-----------:|:-------------------:|
-| Dean's Certificate & Dean's List | 2025 | University of Frontier Technology, Bangladesh |
+| Dean's Certificate & Dean's List | 2025 | Gazipur Digital University |
 | TeamMatrix Elite Hackers: Advanced Cybersecurity | 2024 | TeamMatrix |
 | AWS Academy: Introduction to Cloud | 2023 | AWS Academy |
 | 3rd Runner-Up, Upazila Science Fair | 2023 | Gazipur |
