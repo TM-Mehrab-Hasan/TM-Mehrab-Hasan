@@ -75,11 +75,11 @@ Currently exploring backend C/C++ systems and Explainable AI, with academic hono
 <tr>
 <td width="50%">
 
-### 🎬 Movie Saviour (Web App)  
+### 🎬 Cinema Vault (Movie Website)  
 **All your movies, dramas, animes in one place** — a sleek UI to browse and discover titles.  
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/TM-Mehrab-Hasan/MovieSaviour_Website)
-[![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://moviesaviour.netlify.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/TM-Mehrab-Hasan/CinemaVault_Movie_Website)
+[![Live](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)](https://cinemavault.netlify.app/)
 
 </td>
 <td width="50%">
